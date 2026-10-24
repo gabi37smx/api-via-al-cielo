@@ -1,0 +1,10 @@
+{
+  "name": "via-al-cielo-api",
+  "version": "1.0.0",
+  "description": "API del ranking global del juego Vía al Cielo",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "dependencies": { "mongodb": "^6.0.0" }
+}
